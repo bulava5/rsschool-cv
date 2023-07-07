@@ -11,4 +11,3 @@
 *3. Career growth.*
 *4. Free schedule and the possibility of remote work.*
 __My strengths: stress resistance, perseverance, I bring the matter to the end.__
-
