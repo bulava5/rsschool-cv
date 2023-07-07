@@ -4,8 +4,8 @@
 ### mail - jopaopaa@gmail.com
 ### [Instagram](https://www.instagram.com/htc01k/)
 ### - Higher education
-*I plan to become a front-end developer.*
-*In this profession, the following factors are attractive:*
+#### *I plan to become a front-end developer.*
+##### *In this profession, the following factors are attractive:*
 *1. Demand*
 *2. High pay.*
 *3. Career growth.*
