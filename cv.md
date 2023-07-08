@@ -1,5 +1,5 @@
 # CV
-## Vladislav Buivalo ![my photo](/rsschool-cv/photo455.jpg)
+## Vladislav Buivalo ![my photo](/https://i.ibb.co/7RVqLVc/photo455.jpg)
 ### phone number - 8033 601 62 22
 ### mail - jopaopaa@gmail.com
 ### [Instagram](https://www.instagram.com/htc01k/)
